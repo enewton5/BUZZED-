@@ -9,3 +9,7 @@ Senior Design
 [Multi-viewtutorial](https://fulmanski.pl/tutorials/apple/ios/multiview-application-swift/)
 
 [SWIFTtutorial](https://www.appcoda.com/learnswift/stack-views.html)
+
+[Login Page With Full Email Authentication Support Using Firebase In SwiftUI](https://www.youtube.com/watch?v=GiCTgsH0dtk)
+
+[Developing Restaurant Reservation App](https://yalantis.com/blog/what-technology-does-opentable-use/)
